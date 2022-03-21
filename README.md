@@ -1,2 +1,4 @@
-# cash-register
-Design a cash register drawer function that accepts purchase price as the first argument, payment as the second argument, and cash-in-drawer as the third argument.
+# freeCodeCamp - Cash Register
+Design a cash register drawer function ```checkCashRegister()``` that accepts purchase price as the first argument (```price```), payment as the second argument (```cash```), and cash-in-drawer (```cid```) as the third argument.
+
+[Requirements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
